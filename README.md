@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divya-ruby
-- 👀 I’m interested in front-end web development and python
-- 🌱 I’m currently learning web development
+- 👀 My interests -> Devops, Python, Linux, AWS
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on developing
 - 📫 How to reach me http://www.linkedin.com/in/divya-jyothi-madem-57ba111b1
 
